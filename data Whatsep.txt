@@ -41,11 +41,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Laundry management has traditionally been a labor-intensive and time-consuming process. From sorting and washing to drying and folding, it involves numerous tasks that require meticulous attention to detail. However, with the advent of FM Washapp TM Version, laundry businesses can now automate and optimize their operations, leading to increased productivity and customer satisfaction.","photo2":"https://iili.io/HU7qIun.jpg"},
+  {"desc3":"FM Washapp TM Version is a comprehensive laundry management system that combines software and hardware components to provide an end-to-end solution for laundry businesses. It encompasses various features such as order management, inventory tracking, ","photo3":"https://iili.io/HU7qC3N.jpg"},
+  {"desc4":"customer communication, and payment processing. With its user-friendly interface and advanced functionality, FM Washapp TM Version offers an integrated platform for managing all aspects of laundry operations.","photo4":"https://iili.io/HU7qovt.png"},
+  {"desc5":"FM Washapp TM Version simplifies the process of receiving, tracking, and managing laundry orders. Customers can place orders through a mobile application or a web portal, selecting specific services, delivery preferences, and payment options. The system automatically generates order tickets, ","photo5":"https://iili.io/HU7qnaI.jpg"},
+  {"descd":"assigns them to the appropriate staff, and updates the status in real-time. This feature eliminates manual errors, improves order accuracy, and enables efficient tracking of each order's progress.","photod":"https://iili.io/HU7qxyX.png"}
    ]
  
 }
